@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scild\\Desktop\\WileyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73959A4B-7CD1-41FB-B02F-E09251C863D4}|WileyTest.csproj|c:\\users\\scild\\desktop\\wileytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73959A4B-7CD1-41FB-B02F-E09251C863D4}|WileyTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73959A4B-7CD1-41FB-B02F-E09251C863D4}|WileyTest.csproj|c:\\users\\scild\\desktop\\wileytest\\versioniterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73959A4B-7CD1-41FB-B02F-E09251C863D4}|WileyTest.csproj|solutionrelative:versioniterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AE729D-F545-4B31-80B5-DDD66C621D69}|..\\WileyUnitTests\\WileyUnitTests.csproj|c:\\users\\scild\\desktop\\wileyunittests\\wileyunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73959A4B-7CD1-41FB-B02F-E09251C863D4}|WileyTest.csproj|c:\\users\\scild\\desktop\\wileytest\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73959A4B-7CD1-41FB-B02F-E09251C863D4}|WileyTest.csproj|solutionrelative:exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\scild\\Desktop\\WileyTest\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Exceptions.cs",
+              "ToolTip": "C:\\Users\\scild\\Desktop\\WileyTest\\Exceptions.cs",
+              "RelativeToolTip": "Exceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:28:20.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WileyUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\scild\\Desktop\\WileyUnitTests\\WileyUnitTests.cs",
+              "RelativeDocumentMoniker": "..\\WileyUnitTests\\WileyUnitTests.cs",
+              "ToolTip": "C:\\Users\\scild\\Desktop\\WileyUnitTests\\WileyUnitTests.cs",
+              "RelativeToolTip": "..\\WileyUnitTests\\WileyUnitTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:48:23.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VersionIterator.cs",
+              "DocumentMoniker": "C:\\Users\\scild\\Desktop\\WileyTest\\VersionIterator.cs",
+              "RelativeDocumentMoniker": "VersionIterator.cs",
+              "ToolTip": "C:\\Users\\scild\\Desktop\\WileyTest\\VersionIterator.cs",
+              "RelativeToolTip": "VersionIterator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:30:22.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scild\\Desktop\\WileyTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\scild\\Desktop\\WileyTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:16:21.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

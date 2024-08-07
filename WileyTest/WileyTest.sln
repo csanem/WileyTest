@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WileyTest", "WileyTest.csproj", "{73959A4B-7CD1-41FB-B02F-E09251C863D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WileyUnitTests", "..\WileyUnitTests\WileyUnitTests.csproj", "{B1AE729D-F545-4B31-80B5-DDD66C621D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73959A4B-7CD1-41FB-B02F-E09251C863D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73959A4B-7CD1-41FB-B02F-E09251C863D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73959A4B-7CD1-41FB-B02F-E09251C863D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73959A4B-7CD1-41FB-B02F-E09251C863D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AE729D-F545-4B31-80B5-DDD66C621D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AE729D-F545-4B31-80B5-DDD66C621D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AE729D-F545-4B31-80B5-DDD66C621D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AE729D-F545-4B31-80B5-DDD66C621D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523253CC-FF7A-4510-B985-D3F317A54CB2}
+	EndGlobalSection
+EndGlobal

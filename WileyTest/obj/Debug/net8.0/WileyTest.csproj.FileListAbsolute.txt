@@ -1,0 +1,14 @@
+C:\Users\scild\Desktop\WileyTest\bin\Debug\net8.0\WileyTest.exe
+C:\Users\scild\Desktop\WileyTest\bin\Debug\net8.0\WileyTest.deps.json
+C:\Users\scild\Desktop\WileyTest\bin\Debug\net8.0\WileyTest.runtimeconfig.json
+C:\Users\scild\Desktop\WileyTest\bin\Debug\net8.0\WileyTest.dll
+C:\Users\scild\Desktop\WileyTest\bin\Debug\net8.0\WileyTest.pdb
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\WileyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\WileyTest.AssemblyInfoInputs.cache
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\WileyTest.AssemblyInfo.cs
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\WileyTest.csproj.CoreCompileInputs.cache
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\WileyTest.dll
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\refint\WileyTest.dll
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\WileyTest.pdb
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\WileyTest.genruntimeconfig.cache
+C:\Users\scild\Desktop\WileyTest\obj\Debug\net8.0\ref\WileyTest.dll
